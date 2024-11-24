@@ -1,0 +1,15 @@
+{
+    "id": "557e261e-0082-491a-845c-c38917846f26",
+    "version": "1.0.0",
+    "platform": "all",
+    "arch": "all",
+    "name": "同步创建日期",
+    "logo": "/logo.png",
+    "keywords": [],
+    "devTools": false,
+    "main": {
+        "url": "index.html",
+        "width": 640,
+        "height": 480
+    }
+}
